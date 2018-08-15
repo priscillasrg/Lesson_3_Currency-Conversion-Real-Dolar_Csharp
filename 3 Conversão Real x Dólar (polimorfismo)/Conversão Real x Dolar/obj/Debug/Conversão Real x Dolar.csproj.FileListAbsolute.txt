@@ -1,0 +1,20 @@
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\bin\Debug\Conversão Real x Dolar.exe.config
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\bin\Debug\Conversão Real x Dolar.exe
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\bin\Debug\Conversão Real x Dolar.pdb
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão_Real_x_Dolar.frmPrincipal.resources
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão_Real_x_Dolar.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.exe
+C:\Users\Priscilla\source\repos\Conversão Real x Dolar\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.pdb
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\bin\Debug\Conversão Real x Dolar.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\bin\Debug\Conversão Real x Dolar.exe
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\bin\Debug\Conversão Real x Dolar.pdb
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão_Real_x_Dolar.frmPrincipal.resources
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão_Real_x_Dolar.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.exe
+C:\Users\Priscilla\Desktop\Treino POO\3 Conversão Real x Dólar (polimorfismo)\Conversão Real x Dolar\obj\Debug\Conversão Real x Dolar.pdb
